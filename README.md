@@ -2,4 +2,8 @@
 
 In this exercise, we will build a an virtual environment with Docker container to run a machine learning model.
 
-Dataset used: Google Play Apps
+Dataset used: Google Playstore Apps Keggle
+
+To Do:
+- create 3 folders
+- create 3 Docker containers
